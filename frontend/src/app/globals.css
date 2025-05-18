@@ -1,0 +1,5 @@
+/* src/app/globals.css */
+/* eslint-disable css-unknown-at-rules */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
